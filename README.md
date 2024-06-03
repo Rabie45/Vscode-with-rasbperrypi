@@ -1,4 +1,4 @@
-![image](https://github.com/Rabie45/Vscode-with-rasbperrypi/assets/76526170/91c6e13e-afdd-4ebb-85e7-a5fe45aced25)# Vscode-with-rasbperrypi
+# Vscode-with-rasbperrypi
 To set up Visual Studio Code (VS Code) on a Raspberry Pi
 ## Steps:
  - Open vscode
